@@ -1,0 +1,1297 @@
+[
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:02:58.163Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/",
+    "status": 301,
+    "responseTimeMs": 8.955,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T17:02:58.170Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:02:58.188Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/",
+    "status": 200,
+    "responseTimeMs": 6.268,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T17:02:58.190Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/swagger-ui-init.js",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:02:58.286Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/swagger-ui-init.js",
+    "status": 200,
+    "responseTimeMs": 1.611,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T17:02:58.288Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/swagger-ui.css",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:02:58.296Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/swagger-ui.css",
+    "status": 200,
+    "responseTimeMs": 21.571,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T17:02:58.299Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/swagger-ui-standalone-preset.js",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:02:58.309Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/swagger-ui-standalone-preset.js",
+    "status": 200,
+    "responseTimeMs": 26.098,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T17:02:58.312Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/swagger-ui-bundle.js",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:02:58.349Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/swagger-ui-bundle.js",
+    "status": 200,
+    "responseTimeMs": 65.459,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T17:02:58.351Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/favicon-16x16.png",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:02:58.736Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/favicon-16x16.png",
+    "status": 200,
+    "responseTimeMs": 3.142,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T17:02:58.737Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:04:09.104Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/",
+    "status": 304,
+    "responseTimeMs": 18.238,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T17:04:09.113Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/swagger-ui.css",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:04:09.211Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/swagger-ui.css",
+    "status": 304,
+    "responseTimeMs": 5.737,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T17:04:09.213Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/swagger-ui-bundle.js",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:04:09.221Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/swagger-ui-bundle.js",
+    "status": 304,
+    "responseTimeMs": 4.418,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T17:04:09.223Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/swagger-ui-init.js",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:04:09.227Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/swagger-ui-init.js",
+    "status": 304,
+    "responseTimeMs": 2.896,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T17:04:09.230Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/swagger-ui-standalone-preset.js",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:04:09.235Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/swagger-ui-standalone-preset.js",
+    "status": 304,
+    "responseTimeMs": 11.078,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T17:04:09.237Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:07:56.966Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/",
+    "status": 301,
+    "responseTimeMs": 7.173,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "timestamp": "2026-05-10T17:07:56.971Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:07:56.994Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/",
+    "status": 200,
+    "responseTimeMs": 6.707,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "timestamp": "2026-05-10T17:07:56.997Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/swagger-ui-init.js",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:07:57.103Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/swagger-ui-init.js",
+    "status": 200,
+    "responseTimeMs": 2.402,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "timestamp": "2026-05-10T17:07:57.105Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/swagger-ui.css",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:07:57.114Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/swagger-ui.css",
+    "status": 200,
+    "responseTimeMs": 26.95,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "timestamp": "2026-05-10T17:07:57.117Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/swagger-ui-standalone-preset.js",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:07:57.141Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/swagger-ui-standalone-preset.js",
+    "status": 200,
+    "responseTimeMs": 40.276,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "timestamp": "2026-05-10T17:07:57.143Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/swagger-ui-bundle.js",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:07:57.182Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/swagger-ui-bundle.js",
+    "status": 200,
+    "responseTimeMs": 83.09,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "timestamp": "2026-05-10T17:07:57.185Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/favicon-32x32.png",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:07:57.638Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/favicon-32x32.png",
+    "status": 200,
+    "responseTimeMs": 5.113,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "timestamp": "2026-05-10T17:07:57.641Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:10:23.488Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/",
+    "status": 304,
+    "responseTimeMs": 13.006,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T17:10:23.496Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/swagger-ui.css",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:10:23.647Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/swagger-ui.css",
+    "status": 304,
+    "responseTimeMs": 4.787,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T17:10:23.648Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/swagger-ui-init.js",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:10:23.656Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/swagger-ui-init.js",
+    "status": 304,
+    "responseTimeMs": 2.462,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T17:10:23.658Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/swagger-ui-bundle.js",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:10:23.662Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/swagger-ui-bundle.js",
+    "status": 304,
+    "responseTimeMs": 2.874,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T17:10:23.664Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/swagger-ui-standalone-preset.js",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:10:23.668Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/swagger-ui-standalone-preset.js",
+    "status": 304,
+    "responseTimeMs": 7.722,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T17:10:23.670Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:11:25.112Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/",
+    "status": 304,
+    "responseTimeMs": 21.625,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T17:11:25.119Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/swagger-ui.css",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:11:25.231Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/swagger-ui.css",
+    "status": 304,
+    "responseTimeMs": 4.75,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T17:11:25.233Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/swagger-ui-bundle.js",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:11:25.241Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/swagger-ui-bundle.js",
+    "status": 304,
+    "responseTimeMs": 6.068,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T17:11:25.244Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/swagger-ui-init.js",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:11:25.249Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/swagger-ui-init.js",
+    "status": 304,
+    "responseTimeMs": 3.702,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T17:11:25.253Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/swagger-ui-standalone-preset.js",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:11:25.259Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/swagger-ui-standalone-preset.js",
+    "status": 304,
+    "responseTimeMs": 12.994,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T17:11:25.261Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:17:33.446Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/",
+    "status": 304,
+    "responseTimeMs": 14.03,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T17:17:33.451Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/swagger-ui.css",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:17:33.669Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/swagger-ui.css",
+    "status": 304,
+    "responseTimeMs": 16.634,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T17:17:33.679Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/swagger-ui-bundle.js",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:17:33.685Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/swagger-ui-bundle.js",
+    "status": 304,
+    "responseTimeMs": 4.663,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T17:17:33.687Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/swagger-ui-standalone-preset.js",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:17:33.691Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/swagger-ui-standalone-preset.js",
+    "status": 304,
+    "responseTimeMs": 10.747,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T17:17:33.694Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/swagger-ui-init.js",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:17:33.699Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/swagger-ui-init.js",
+    "status": 304,
+    "responseTimeMs": 2.631,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T17:17:33.701Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:19:11.730Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/",
+    "status": 304,
+    "responseTimeMs": 15.978,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T17:19:11.737Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/swagger-ui.css",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:19:11.848Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/swagger-ui.css",
+    "status": 304,
+    "responseTimeMs": 4.264,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T17:19:11.850Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/swagger-ui-init.js",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:19:11.855Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/swagger-ui-init.js",
+    "status": 304,
+    "responseTimeMs": 2.054,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T17:19:11.857Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/swagger-ui-bundle.js",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:19:11.861Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/swagger-ui-bundle.js",
+    "status": 304,
+    "responseTimeMs": 3.112,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T17:19:11.863Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/swagger-ui-standalone-preset.js",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:19:11.866Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/swagger-ui-standalone-preset.js",
+    "status": 304,
+    "responseTimeMs": 7.451,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T17:19:11.868Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/20",
+    "pathParams": {
+      "id": "20"
+    },
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:19:53.025Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "POST",
+    "path": "/",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:21:29.512Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "POST",
+    "path": "/",
+    "status": 201,
+    "responseTimeMs": 230.735,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T17:21:29.514Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/1",
+    "pathParams": {
+      "id": "1"
+    },
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T17:22:27.767Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "unknown",
+    "ip": "::ffff:127.0.0.1",
+    "timestamp": "2026-05-10T17:50:27.330Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/",
+    "status": 200,
+    "responseTimeMs": 44.112,
+    "ip": "::ffff:127.0.0.1",
+    "userAgent": "unknown",
+    "timestamp": "2026-05-10T17:50:27.368Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "unknown",
+    "ip": "::ffff:127.0.0.1",
+    "timestamp": "2026-05-10T17:50:27.441Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/",
+    "status": 200,
+    "responseTimeMs": 5.033,
+    "ip": "::ffff:127.0.0.1",
+    "userAgent": "unknown",
+    "timestamp": "2026-05-10T17:50:27.446Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "unknown",
+    "ip": "::ffff:127.0.0.1",
+    "timestamp": "2026-05-10T17:50:27.475Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/1",
+    "pathParams": {
+      "id": "1"
+    },
+    "queryParams": {},
+    "userAgent": "unknown",
+    "ip": "::ffff:127.0.0.1",
+    "timestamp": "2026-05-10T17:50:27.499Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/1",
+    "status": 200,
+    "responseTimeMs": 5.197,
+    "ip": "::ffff:127.0.0.1",
+    "userAgent": "unknown",
+    "timestamp": "2026-05-10T17:50:27.503Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/999",
+    "pathParams": {
+      "id": "999"
+    },
+    "queryParams": {},
+    "userAgent": "unknown",
+    "ip": "::ffff:127.0.0.1",
+    "timestamp": "2026-05-10T17:50:27.517Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/1",
+    "pathParams": {
+      "id": "1"
+    },
+    "queryParams": {},
+    "userAgent": "unknown",
+    "ip": "::ffff:127.0.0.1",
+    "timestamp": "2026-05-10T17:50:27.536Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "POST",
+    "path": "/",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "unknown",
+    "ip": "::ffff:127.0.0.1",
+    "timestamp": "2026-05-10T17:50:27.585Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "POST",
+    "path": "/",
+    "status": 201,
+    "responseTimeMs": 4.636,
+    "ip": "::ffff:127.0.0.1",
+    "userAgent": "unknown",
+    "timestamp": "2026-05-10T17:50:27.589Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "POST",
+    "path": "/",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "unknown",
+    "ip": "::ffff:127.0.0.1",
+    "timestamp": "2026-05-10T17:50:27.606Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "POST",
+    "path": "/",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "unknown",
+    "ip": "::ffff:127.0.0.1",
+    "timestamp": "2026-05-10T17:50:27.633Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "POST",
+    "path": "/",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "unknown",
+    "ip": "::ffff:127.0.0.1",
+    "timestamp": "2026-05-10T17:50:27.655Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "DELETE",
+    "path": "/1",
+    "pathParams": {
+      "id": "1"
+    },
+    "queryParams": {},
+    "userAgent": "unknown",
+    "ip": "::ffff:127.0.0.1",
+    "timestamp": "2026-05-10T17:50:27.697Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "DELETE",
+    "path": "/1",
+    "status": 200,
+    "responseTimeMs": 29.22,
+    "ip": "::ffff:127.0.0.1",
+    "userAgent": "unknown",
+    "timestamp": "2026-05-10T17:50:27.700Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "DELETE",
+    "path": "/999",
+    "pathParams": {
+      "id": "999"
+    },
+    "queryParams": {},
+    "userAgent": "unknown",
+    "ip": "::ffff:127.0.0.1",
+    "timestamp": "2026-05-10T17:50:27.714Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "DELETE",
+    "path": "/1",
+    "pathParams": {
+      "id": "1"
+    },
+    "queryParams": {},
+    "userAgent": "unknown",
+    "ip": "::ffff:127.0.0.1",
+    "timestamp": "2026-05-10T17:50:27.736Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "unknown",
+    "ip": "::ffff:127.0.0.1",
+    "timestamp": "2026-05-10T17:50:28.438Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/",
+    "status": 200,
+    "responseTimeMs": 8.627,
+    "ip": "::ffff:127.0.0.1",
+    "userAgent": "unknown",
+    "timestamp": "2026-05-10T17:50:28.446Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "unknown",
+    "ip": "::ffff:127.0.0.1",
+    "timestamp": "2026-05-10T17:50:28.497Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/",
+    "status": 200,
+    "responseTimeMs": 4.587,
+    "ip": "::ffff:127.0.0.1",
+    "userAgent": "unknown",
+    "timestamp": "2026-05-10T17:50:28.501Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "unknown",
+    "ip": "::ffff:127.0.0.1",
+    "timestamp": "2026-05-10T17:50:28.517Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/",
+    "status": 200,
+    "responseTimeMs": 3.556,
+    "ip": "::ffff:127.0.0.1",
+    "userAgent": "unknown",
+    "timestamp": "2026-05-10T17:50:28.520Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T18:18:39.910Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/",
+    "status": 304,
+    "responseTimeMs": 11.708,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T18:18:39.917Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/swagger-ui.css",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T18:18:40.128Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/swagger-ui.css",
+    "status": 304,
+    "responseTimeMs": 4.936,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T18:18:40.131Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/swagger-ui-bundle.js",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T18:18:40.139Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/swagger-ui-bundle.js",
+    "status": 304,
+    "responseTimeMs": 4.744,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T18:18:40.141Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/swagger-ui-init.js",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T18:18:40.146Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/swagger-ui-init.js",
+    "status": 200,
+    "responseTimeMs": 3.26,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T18:18:40.148Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/swagger-ui-standalone-preset.js",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T18:18:40.155Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/swagger-ui-standalone-preset.js",
+    "status": 304,
+    "responseTimeMs": 12.805,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T18:18:40.157Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/",
+    "pathParams": {},
+    "queryParams": {
+      "page": "1",
+      "limit": "5"
+    },
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T18:19:01.305Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/",
+    "status": 200,
+    "responseTimeMs": 260.335,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T18:19:01.307Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/6631a2f4e1b23c0012345678",
+    "pathParams": {
+      "id": "6631a2f4e1b23c0012345678"
+    },
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T18:21:46.893Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "GET",
+    "path": "/6a00be99f5ef55e2c4cf0c88",
+    "pathParams": {
+      "id": "6a00be99f5ef55e2c4cf0c88"
+    },
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T18:27:37.221Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "GET",
+    "path": "/6a00be99f5ef55e2c4cf0c88",
+    "status": 200,
+    "responseTimeMs": 165.268,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T18:27:37.224Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "POST",
+    "path": "/",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T18:32:13.550Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "POST",
+    "path": "/",
+    "status": 201,
+    "responseTimeMs": 158.67,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T18:32:13.552Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "POST",
+    "path": "/",
+    "pathParams": {},
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T18:32:31.313Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "POST",
+    "path": "/",
+    "status": 201,
+    "responseTimeMs": 175.746,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T18:32:31.315Z"
+  },
+  {
+    "event": "requestStats",
+    "method": "DELETE",
+    "path": "/6a00cf3f3d501ba152cef7df",
+    "pathParams": {
+      "id": "6a00cf3f3d501ba152cef7df"
+    },
+    "queryParams": {},
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "ip": "::1",
+    "timestamp": "2026-05-10T18:35:55.197Z"
+  },
+  {
+    "event": "requestCompleted",
+    "method": "DELETE",
+    "path": "/6a00cf3f3d501ba152cef7df",
+    "status": 200,
+    "responseTimeMs": 381.337,
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.119.0 Chrome/142.0.7444.265 Electron/39.8.8 Safari/537.36",
+    "timestamp": "2026-05-10T18:35:55.199Z"
+  }
+]
